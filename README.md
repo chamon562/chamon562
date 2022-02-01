@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Channee's github stats](https://github-readme-stats.vercel.app/api?username=chamon562&theme=blue-green&show_icons=true)
-📫 How to reach me: channee.math@gmail.com
+📫 Email: channee.math@gmail.com
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/channeemath562/)
 
 <!--
